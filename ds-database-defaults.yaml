@@ -1,7 +1,0 @@
-database:
-  data-source: ORCL
-  username: test
-  password: test
-  is-encrypted-password: false
-  vendor: ORACLE
-  version: 11.2
