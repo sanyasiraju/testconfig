@@ -1,0 +1,5 @@
+file:
+  file-path: #$pProjectDataDir##pInboundDir#
+  file-name-pattern: #pInboundSeqFileName#
+  header: true
+  footer: false
